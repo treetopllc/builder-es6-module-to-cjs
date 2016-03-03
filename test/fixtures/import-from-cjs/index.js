@@ -1,3 +1,4 @@
+// jshint ignore: start
 import { array } from 'is';
 
 // Should be:

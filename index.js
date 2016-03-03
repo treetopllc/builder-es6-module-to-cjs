@@ -1,4 +1,4 @@
-
+// jshint ignore: start
 var compile = require('es6-module-jstransform');
 var isES6 = require('is-module');
 var crypto = require('crypto');

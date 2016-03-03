@@ -1,3 +1,4 @@
+// jshint ignore: start
 var vm = require('vm')
 var co = require('co')
 var assert = require('assert')
